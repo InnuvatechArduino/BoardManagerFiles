@@ -16,8 +16,8 @@
             "category": "Contributed",
             "url": "https://github.com/InnuvatechArduino/STM32ArduinoBoards/archive/refs/tags/0.0.1.tar.gz",
             "archiveFileName": "InnuvatechBoards-0.0.1.tar.bz2",
-            "checksum": "SHA-256:F6B0F2C2ECBF3C6984D52608ED6D248A6CFBBA4E9A5127C2FCCE24A89F0E51C1",
-            "size": "9114839",
+            "checksum": "SHA-256:A14A77BE9DABC80518EFD59553E67AD4E523C5262D125AB9E7D40FFB4216DDF3",
+            "size": "9114045",
             "boards": [
               {"name": "PatchugoOne"}
             ],
