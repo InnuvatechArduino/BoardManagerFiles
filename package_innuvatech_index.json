@@ -2,11 +2,11 @@
     "packages": [
       {
         "name": "Innuvatech",
-        "websiteURL": "https://github.com/PatchugoOne",
+        "websiteURL": "https://github.com/InnuvatechArduino",
         "maintainer": "Innuvatech",
         "email": "finance@innuvatech.com",
         "help": {
-          "online": "https://github.com/PatchugoOne"
+          "online": "https://github.com/InnuvatechArduino"
         },
         "platforms": [
           {
@@ -16,8 +16,8 @@
             "category": "Contributed",
             "url": "https://github.com/InnuvatechArduino/STM32ArduinoBoards/archive/refs/tags/0.0.1.tar.gz",
             "archiveFileName": "InnuvatechBoards-0.0.1.tar.bz2",
-            "checksum": "SHA-256:A14A77BE9DABC80518EFD59553E67AD4E523C5262D125AB9E7D40FFB4216DDF3",
-            "size": "9114045",
+            "checksum": "SHA-256:E2399EFA27AE2432137BDDE7671B698A5E82F06C8C54261707C4ABF7B708242A",
+            "size": "8810656",
             "boards": [
               {"name": "PatchugoOne"}
             ],
