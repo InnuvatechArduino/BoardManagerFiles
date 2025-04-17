@@ -15,7 +15,7 @@
             "version": "0.0.2",
             "category": "Contributed",
             "url": "https://github.com/InnuvatechArduino/STM32ArduinoBoards/archive/refs/tags/0.0.2.tar.gz",
-            "archiveFileName": "InnuvatechBoards-0.0.1.tar.bz2",
+            "archiveFileName": "InnuvatechBoards-0.0.2.tar.bz2",
             "checksum": "SHA-256:9E4DD90F0347A697785E25C43447E7B10D7DCE358277861E6DE11EE15686767B",
             "size": "8808955",
             "boards": [
